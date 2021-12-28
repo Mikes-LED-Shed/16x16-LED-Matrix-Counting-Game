@@ -1,0 +1,9 @@
+This is my first project uploaded to GitHub.
+The video for this project will shortly be uploaded to 
+https://www.youtube.com/mikesledshed
+
+This project needs:
+1 x Arduino Nano
+1 x 16*16 WS2812 LED Matrix
+1 push button 
+1 x 100ohm resistor 
